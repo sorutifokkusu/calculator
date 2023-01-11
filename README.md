@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 React Calculator
 
 This is one of the Freecodecamps project; Calculator.
